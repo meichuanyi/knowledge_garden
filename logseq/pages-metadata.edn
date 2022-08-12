@@ -19,45 +19,30 @@
  {:block/name "cancelled",
   :block/created-at 1660239899345,
   :block/updated-at 1660239899345}
- {:block/name "card",
-  :block/created-at 1643949092472,
-  :block/updated-at 1643949092472}
  {:block/name "doing",
   :block/created-at 1643949092472,
   :block/updated-at 1643949092472}
  {:block/name "done",
   :block/created-at 1643949092472,
   :block/updated-at 1643949092472}
- {:block/name "favorites",
-  :block/created-at 1643949092471,
-  :block/updated-at 1643949092471}
+ {:block/name "fri, 2022/08",
+  :block/created-at 1660240224071,
+  :block/updated-at 1660240224071}
+ {:block/name "fri, 2022/08/12",
+  :block/created-at 1660240147166,
+  :block/updated-at 1660240147166}
  {:block/name "in-progress",
   :block/created-at 1643949092472,
   :block/updated-at 1643949092472}
  {:block/name "later",
   :block/created-at 1643949092472,
   :block/updated-at 1643949092472}
- {:block/name "logseq",
-  :block/created-at 1643955922696,
-  :block/updated-at 1643955922696}
- {:block/name "logseq theme",
-  :block/created-at 1643955922696,
-  :block/updated-at 1643955922696}
  {:block/name "now",
   :block/created-at 1643949092472,
   :block/updated-at 1643949092472}
- {:block/name "readme",
-  :block/created-at 1643956237019,
-  :block/updated-at 1643956237019}
- {:block/name "src",
-  :block/created-at 1660239658566,
-  :block/updated-at 1660239658566}
  {:block/name "todo",
   :block/created-at 1643949092472,
   :block/updated-at 1643949092472}
- {:block/name "type",
-  :block/created-at 1660239658567,
-  :block/updated-at 1660239658567}
  {:block/name "wait",
   :block/created-at 1643949092472,
   :block/updated-at 1643949092472}
@@ -65,17 +50,5 @@
   :block/created-at 1643949092471,
   :block/updated-at 1643949092471}
  {:block/name "哥斯拉",
-  :block/created-at 1644042761566,
-  :block/updated-at 1644042761566}
- {:block/name "哥斯拉/国王基多拉",
-  :block/created-at 1644042761565,
-  :block/updated-at 1644042761565}
- {:block/name "哥斯拉/拉顿",
-  :block/created-at 1644042761565,
-  :block/updated-at 1644042761565}
- {:block/name "汉字测试",
-  :block/created-at 1643955922696,
-  :block/updated-at 1643955922697}
- {:block/name "践行极简理念，高效数字生活",
-  :block/created-at 1644032327204, 
-  :block/updated-at 1644032327204}]
+  :block/created-at 1644042761566, 
+  :block/updated-at 1644042761566}]
