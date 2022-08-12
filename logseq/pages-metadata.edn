@@ -46,6 +46,12 @@
  {:block/name "favorites",
   :block/created-at 1660306752167,
   :block/updated-at 1660306752167}
+ {:block/name "fr, 2022/08",
+  :block/created-at 1660307903121,
+  :block/updated-at 1660307903121}
+ {:block/name "fr, 2022/08/12",
+  :block/created-at 1660307131641,
+  :block/updated-at 1660307131641}
  {:block/name "fri, 2022/08",
   :block/created-at 1660240224071,
   :block/updated-at 1660240224071}
@@ -61,6 +67,12 @@
  {:block/name "now",
   :block/created-at 1643949092472,
   :block/updated-at 1643949092472}
+ {:block/name "th, 2022/08",
+  :block/created-at 1660307903121,
+  :block/updated-at 1660307903121}
+ {:block/name "th, 2022/08/11",
+  :block/created-at 1660307164256,
+  :block/updated-at 1660307164256}
  {:block/name "todo",
   :block/created-at 1643949092472,
   :block/updated-at 1643949092472}
